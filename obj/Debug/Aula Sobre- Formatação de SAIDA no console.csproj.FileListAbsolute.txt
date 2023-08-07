@@ -1,0 +1,8 @@
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\Aula Sobre- Formatação de SAIDA no console\bin\Debug\Aula Sobre- Formatação de SAIDA no console.exe.config
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\Aula Sobre- Formatação de SAIDA no console\bin\Debug\Aula Sobre- Formatação de SAIDA no console.exe
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\Aula Sobre- Formatação de SAIDA no console\bin\Debug\Aula Sobre- Formatação de SAIDA no console.pdb
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\Aula Sobre- Formatação de SAIDA no console\obj\Debug\Aula Sobre- Formatação de SAIDA no console.csproj.AssemblyReference.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\Aula Sobre- Formatação de SAIDA no console\obj\Debug\Aula Sobre- Formatação de SAIDA no console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\Aula Sobre- Formatação de SAIDA no console\obj\Debug\Aula Sobre- Formatação de SAIDA no console.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\Aula Sobre- Formatação de SAIDA no console\obj\Debug\Aula Sobre- Formatação de SAIDA no console.exe
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\Aula Sobre- Formatação de SAIDA no console\obj\Debug\Aula Sobre- Formatação de SAIDA no console.pdb
